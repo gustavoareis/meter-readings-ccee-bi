@@ -102,4 +102,4 @@ Consumo de Energia.pbix
 
 ## 📄 Licença
 
-Projeto desenvolvido para fins de estudo. Livre para adaptação.
+Projeto desenvolvido para fins de estudo, livre para adaptação.
