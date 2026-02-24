@@ -103,7 +103,3 @@ Consumo de Energia.pbix
 ## 📄 Licença
 
 Projeto desenvolvido para fins de estudo. Livre para adaptação.
-
----
-
-Se quiser, posso montar uma versão mais forte para portfólio técnico (voltada para recrutador).
